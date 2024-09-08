@@ -1,0 +1,3 @@
+http://localhost:8088/cluster  #yarn
+http://localhost:9864/datanode #hdfs
+http://localhost:9870	       #hdfs full control
